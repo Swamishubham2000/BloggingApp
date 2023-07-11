@@ -1,1 +1,1 @@
-# ShoppingApp
+# BloggingApp
